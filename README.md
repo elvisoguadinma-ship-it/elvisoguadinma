@@ -27,9 +27,22 @@ Detail-oriented and empathetic specialist with over three years of experience ma
 - **Collaboration:** Partnered with multidisciplinary teams to design and implement individualized student success plans.
 - **Documentation:** Managed confidential case files with 100% compliance and attention to detail.
 
----
-
-## 🚀 Projects
-
+- ## Projects
 ### Grinch.AI Web3 Project
-*December 2024 –
+*December 2024 - February 2025*
+- Led daily community operations and feedback listening.
+- Assisted 400+ new investors with technical aspects of the sign-up process.
+- Scaled to 500+ active users in a month and optimized workflows for faster resolution.
+### Data Annotation (AI Training)
+*March 2026 - Current*
+- Performed multi-label classification on customer support tickets to categorize incoming queries.
+- Conducted Named Entity Recognition (NER) to identify and redact sensitive personal information.
+- Annotated
+customer-agent interactions to
+identify emotional markers for AI tone-suggestion models.
+ーーー
+##
+Education
+- **Bachelor of Social Work**
+, University
+of Nigeria, Nsukka
